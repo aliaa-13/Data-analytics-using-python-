@@ -80,5 +80,5 @@ This repository contains the step-by-step progress of a Data Analytics learning 
 
 ## 👤 Author
 
-**Ali Baqi**  
+**Ali Abdul Baqi**  
 Data Analytics Enthusiast 🚀
